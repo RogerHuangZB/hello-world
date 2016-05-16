@@ -3,10 +3,10 @@ My first repository.
 
 
 hello git!
-I`m Roger. I come from China.
-I`m a software developer. Working in Cares.sh.
-I`d like to learn about how to use github.
+I'm Roger. I come from China.
+I'm a software developer. Working in Cares.sh.
+I'd like to learn about how to use github.
 And English.
-This`s really cool!
+This's really cool!
 
 End.
